@@ -23,7 +23,7 @@ This project demonstrates the integration of two functionalities: **Line Tracing
 1. Install the required libraries:
 
     ```bash
-    pip install opencv-python numpy pymycobot
+    pip install pymycobot==3.5.0
     ```
 
 2. Make sure the AGV is connected and the correct COM port is specified in the code (e.g., `/dev/ttyAMA2`).
